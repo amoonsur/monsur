@@ -1,4 +1,6 @@
 /* module-key = 'com.atlassian.confluence.plugins.pagetree:pagetree-css-resources', location = 'com/atlassian/confluence/plugins/pagetree/resource/css/pagetree.css' */
+/* Just for checking */
+
 #pagetreesearch form input.text{margin:0 8px 8px 0;}
 #pagetreesearch form input.aui-button{margin:0;}
 #splitter-sidebar #pagetreesearch form{white-space:nowrap;}
